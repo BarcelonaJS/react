@@ -17,7 +17,7 @@ The Barcelona Original.
 
 ## How to submit a talk proposal
 
-1. [Create a new talk](https://github.com/react/issues/new)
+1. [Create a new talk](https://github.com/BarcelonaJS/react/issues/new)
 2. fill out the title, your Twitter handle, the level and language of the talk and the description
 3. That's it. :)
 
